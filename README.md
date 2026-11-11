@@ -1,7 +1,5 @@
-# Business-Trackers
+# Business-Trackering tools
 Income, expense, sales, payment tracker and budget manager
-
-#BUSINESS TRACKING TOOLS
 
 PROJECT OVERVIEW:
 This project presents different spreadsheet-based tracking solution designed to help small business owners organize sales, income, payment, spending and review expenses over time.
