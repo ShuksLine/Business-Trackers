@@ -1,4 +1,4 @@
-# Business-Trackering tools
+# Business-Tracking tools
 Income, expense, sales, payment tracker and budget manager
 
 PROJECT OVERVIEW:
